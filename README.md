@@ -7,4 +7,4 @@ Members:
 * [Vũ Hoàng Nhật Minh](https://github.com/Minguml)
 * [Nguyễn Thùy Trâm](https://github.com/CornCobIT)
 
-Task Management: * [Trello](https://trello.com/b/79ZHWcia/th2-se104)
+Task Management: [Trello](https://trello.com/b/79ZHWcia/th2-se104)
