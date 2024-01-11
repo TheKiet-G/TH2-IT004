@@ -2,4 +2,7 @@
 
 Thực hành hình thức 2 - SE104
 Members:
-21522736 - Đào Anh Tú
+* [Tô Thế Kiệt – Trưởng nhóm](https://github.com/kiethongngu)
+* [Đào Anh Tú](https://github.com/anhtu301003)
+* [Vũ Hoàng Nhật Minh](https://github.com/Minguml)
+* [Nguyễn Thùy Trâm](https://github.com/CornCobIT)
